@@ -1,0 +1,8 @@
+{
+    "title": "Тестовый курс",
+    "description": "Привет",
+    "filesOrder": [
+        "Отчет.docx",
+        "script.R"
+    ]
+}
